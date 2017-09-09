@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="pnombre">Nombre</string>
+    <string name="phuesos">huesos</string>
+    <string name="menu_Contac">Contacto</string>
+    <string name="menu_Acer">Acerca de ...</string>
+    <string name="CEmail">Email</string>
+    <string name="CAsunto">Asunto</string>
+    <string name="CMensaje">Mensaje</string>
+    <string name="BEnviar">Enviar Comentario</string>
+    <string name="Acerca">Nombre desarrollador: Hèctor Corredor</string>
+    <string name="Mascota_llama">Llama</string>
+</resources>
